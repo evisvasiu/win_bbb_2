@@ -1,0 +1,12 @@
+{
+    "name": "win_bbb_2",
+    "description": "Cloning project from windows to BBB and vice-versa",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow_2.json",
+            "credentialsFile": "flow_2_cred.json"
+        }
+    }
+}
